@@ -92,7 +92,7 @@ export const manifest: IModuleManifest = {
 
 
 
-
+// вариант с модальным окном и iframe
 
 // IMPORT { MODULE } FROM 'SABRE-NGV-CORE/MODULES/MODULE';
 // import { Module } from 'sabre-ngv-core/modules/Module';
