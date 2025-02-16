@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>External Web Integration</title>
+  </head>
+  <body>
+    <h2 id="errorBox" style="color: red"></h2>
+    <h3>Incoming message:</h3>
+    <div id="incomingMessageBox"></div>
+    <h3>Send message (JSON-string format ex. {"name":"John"})</h3>
+    <textarea
+      id="outMessageBox"
+      rows="20"
+      cols="40"
+      placeholder="Type JSON-string here"
+    >
+    </textarea>
+    <br />
+    <button id="sendMessage">Send message</button>
+    <script src="./main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+<div style="float:left">
+    <form>
+        <div class="payload-field form-group">
+            <label for="{{new-random 'payload-field'}}">Message to be send (JSON-string format)</label>
+            <textarea rows="10" cols="90" name="payload" id="{{get-random 'payload-field'}}"
+                      class="not-empty form-control input-form payload"/>
+        </div>
+    </form>
+</div>
+
+<div style="float: right">
+    <label for="{{new-random 'response-field'}}">Incoming message</label>
+    <textarea rows="30" cols="90" name="response" id="{{get-random 'response-field'}}"
+              class="not-empty form-control input-form response"/>
+</div>

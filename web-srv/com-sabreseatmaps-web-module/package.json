@@ -1,0 +1,32 @@
+{
+  "name": "com-sabreseatmaps-web-module-src",
+  "version": "1.0.0",
+  "description": "NGV module",
+  "author": {
+    "name": "klb"
+  },
+  "contributors": [],
+  "private": true,
+  "license": "LicenseRef-LICENSE",
+  "dependencies": {
+    "sabre-ngv-app": "*",
+    "sabre-ngv-core": "*",
+    "sabre-ngv-xp": "*",
+    "sabre-ngv-redAppSidePanel": "*",
+    "sabre-ngv-communication": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "ngv": {
+    "buildDependencies": {
+      "sabre-ngv-app": "*",
+      "sabre-ngv-core": "*",
+      "sabre-ngv-xp": "*",
+      "sabre-ngv-redAppSidePanel": "*",
+      "sabre-ngv-communication": "*"
+    },
+    "concierge_version_min": "7.5.15",
+    "runtimeDependencies": {},
+    "testDependencies": {}
+  }
+}

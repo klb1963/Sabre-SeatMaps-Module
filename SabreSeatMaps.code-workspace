@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../jets-seatmap-react-proxy-app"
+		},
+		{
+			"path": "web-srv/com-sabreseatmaps-web-module"
+		}
+	],
+	"settings": {}
+}

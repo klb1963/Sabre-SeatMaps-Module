@@ -1,0 +1,14 @@
+{
+  "name": "com-sabreseatmaps-web-module",
+  "redAppId": "abc123def456ghi789jkl0",
+  "bundleSymbolicName": "com.sabreseatmaps",
+  "bundleName": "seatmaps",
+  "contactDetails": {
+    "author": "klb",
+    "email": "k_l_b_1963@hotmail.com",
+    "phoneNumber": "+4915678152428",
+    "company": "SeatMaps",
+    "contactName": "leonid",
+    "website": "seatmaps.com"
+  }
+}
